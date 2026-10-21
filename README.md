@@ -15,9 +15,7 @@ I am at the beginning of my programming journey. I focus on creating small apps 
 * Python
 * Git
 
-### Goals
-* Building more functional Python applications
-* Writing clean and straightforward code
+
 
 <!--
 **K4pselll/K4pselll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
