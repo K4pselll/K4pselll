@@ -5,11 +5,12 @@ I am at the beginning of my programming journey. I focus on creating small apps 
 ---
 
 ### About Me
-* Python is my main language for building applications
+* Python and C# are my main languages for building applications
 * I create small, lightweight tools and scripts
 * I like cats and digital minimalism
 
 ### Tech Stack
+* C#
 * Python
 * Git
 
