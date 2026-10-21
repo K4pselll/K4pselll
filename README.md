@@ -1,6 +1,7 @@
 # Hi there 👋
 
 I am at the beginning of my programming journey. I focus on creating small apps and practical projects rather than learning complex game engines. I prefer simplicity and working solutions.
+### You should check out K4pselll/EZter
 
 ---
 
